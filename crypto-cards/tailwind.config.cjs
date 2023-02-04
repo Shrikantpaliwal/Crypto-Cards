@@ -9,6 +9,7 @@ module.exports = {
       'logo' : '#3D00B7',
       'ring-col' : '#EFEFEF',
       'white' : '#ffffff',
+      'green' : '#00AC4F',
     },
   },
   plugins: [],
